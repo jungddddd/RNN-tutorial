@@ -1,3 +1,5 @@
+강의자료는 https://bit.ly/3Dj6t21 에서 받으실 수 있습니다.
+
 
 ## requirements
 
